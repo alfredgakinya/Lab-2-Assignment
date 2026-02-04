@@ -1,4 +1,6 @@
 # Customer Care Multi-Agent System
+Alfred Gakinya-671579
+Sharmake Ashkir-671723
 
 ## Chosen Use Case & Rationale
 This project implements a multi-agent AI system for customer care resolution.
